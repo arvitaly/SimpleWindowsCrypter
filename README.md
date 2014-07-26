@@ -8,8 +8,8 @@ Command line parameters (Параметры запуска из командно
  
 DevilStudioCrypter [e|d] [passphrase] [source_file] [dest_file]
  
-e - Encrypt (шифрование)
-d - Decrypt (дешифрование)
-passphrase - key for encrypt (ключ для шифрования)
-source_file - source file (исходный файл)
-dest_file - destination file (файл назначения)
+<p>e - Encrypt (шифрование)</p>
+<p>d - Decrypt (дешифрование)</p>
+<p>passphrase - key for encrypt (ключ для шифрования)</p>
+<p>source_file - source file (исходный файл)</p>
+<p>dest_file - destination file (файл назначения)</p>
