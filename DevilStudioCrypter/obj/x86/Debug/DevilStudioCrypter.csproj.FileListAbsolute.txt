@@ -1,0 +1,6 @@
+C:\Users\arvitaly\AppData\Local\Temporary Projects\DevilStudioCrypter\bin\Debug\DevilStudioCrypter.exe
+C:\Users\arvitaly\AppData\Local\Temporary Projects\DevilStudioCrypter\bin\Debug\DevilStudioCrypter.pdb
+C:\Users\arvitaly\AppData\Local\Temporary Projects\DevilStudioCrypter\obj\x86\Debug\DevilStudioCrypter.exe
+C:\Users\arvitaly\AppData\Local\Temporary Projects\DevilStudioCrypter\obj\x86\Debug\DevilStudioCrypter.pdb
+e:\Projects\DevilStudio\DevilStudioCrypter\DevilStudioCrypter\obj\x86\Debug\DevilStudioCrypter.exe
+e:\Projects\DevilStudio\DevilStudioCrypter\DevilStudioCrypter\obj\x86\Debug\DevilStudioCrypter.pdb

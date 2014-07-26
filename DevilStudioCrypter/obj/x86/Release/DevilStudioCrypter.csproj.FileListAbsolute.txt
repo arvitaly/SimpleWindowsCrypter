@@ -1,0 +1,4 @@
+e:\Projects\DevilStudio\DevilStudioCrypter\DevilStudioCrypter\bin\Release\DevilStudioCrypter.exe
+e:\Projects\DevilStudio\DevilStudioCrypter\DevilStudioCrypter\bin\Release\DevilStudioCrypter.pdb
+e:\Projects\DevilStudio\DevilStudioCrypter\DevilStudioCrypter\obj\x86\Release\DevilStudioCrypter.exe
+e:\Projects\DevilStudio\DevilStudioCrypter\DevilStudioCrypter\obj\x86\Release\DevilStudioCrypter.pdb
